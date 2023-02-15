@@ -1,8 +1,8 @@
 # Pentaroom.io
 
-Le projet Pentaroom.io est déployé sur des serveurs Heroku (backend) et O2Switch (frontend).
+Pentaroom is a game inspired by Pictionary built with React, NodeJS and SocketIO.
 
-De fait, il est accessible à l'adresse suivante: [pentaroomio.jkhq4735.odns.fr](http://pentaroomio.jkhq4735.odns.fr/)
+[![Presentation](doc/screenshot.png)](doc/presentation.mkv)
 
 ## Technologies
 ### Backend
@@ -13,7 +13,3 @@ De fait, il est accessible à l'adresse suivante: [pentaroomio.jkhq4735.odns.fr]
 
 ### Communication backend / frontend
 - SocketIO
-
-
-## SonarCloud.io
-Retrouvez le projet Pentaroom sur SonarCloud.io : [SonarCloud.io - Pentaroom](https://sonarcloud.io/project/overview?id=kiitoss_pentaroom)
